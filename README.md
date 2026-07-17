@@ -1,5 +1,5 @@
 # RAISA - Sway
-Sway compositor configuration for RAISA. Used to run the main UI in a locked-down environment.
+[Sway](https://swaywm.org/) compositor configuration for RAISA. Used to run the main UI in a locked-down environment.
 
 ---
 
